@@ -1,0 +1,32 @@
+{
+ 
+    "title": {
+      "language_selection": "Language Selection",
+      "crop_recommendation": "Crop Recommendation System",
+      "en_language_name": "English",
+  "hi_language_name": "हिंदी",
+  "ta_language_name": "தமிழ்",
+  "te_language_name": "తెలుగు",
+  "ml_language_name": "മലയാളം",
+  "kn_language_name": "ಕನ್ನಡ",
+  "gu_language_name": "ગુજરાતી",
+  "mr_language_name": "मराठी"
+    },
+    "label": {
+      "choose_language": "Choose your preferred language",
+      "nitrogen": "Nitrogen",
+      "potassium": "Potassium",
+      "phosphorus": "Phosphorus",
+      "temperature": "Temperature",
+      "humidity": "Humidity",
+      "ph": "pH",
+      "rainfall": "Rainfall"
+    },
+    "button": {
+      "continue": "Continue",
+      "predict_crop": "Predict Crop"
+    },
+    "message": {
+      "predicting_crop": "Predicting the best crop based on input data..."
+    }
+  }

@@ -1,0 +1,24 @@
+{
+    "title": {
+      "language_selection": "ভাষা নিৰ্বাচন",
+      "crop_recommendation": "শস্য পৰামৰ্শ প্ৰণালী"
+    },
+    "label": {
+      "choose_language": "আপোনাৰ প্ৰিয় ভাষা বাছি লওক",
+      "nitrogen": "নাইট্ৰ'জেন",
+      "potassium": "পটাচিয়াম",
+      "phosphorus": "ফছফ'ৰাছ",
+      "temperature": "তাপমাত্ৰা",
+      "humidity": "আর্দ্ৰতা",
+      "ph": "মাটিৰ pH স্তৰ",
+      "rainfall": "বৰষুণ"
+    },
+    "button": {
+      "continue": "অগ্ৰসৰ হওক",
+      "predict_crop": "শস্যৰ পূৰ্বাভাস দিয়ক"
+    },
+    "message": {
+      "predicting_crop": "ইনপুট তথ্যৰ ভিত্তিত উত্তম শস্যৰ পূৰ্বাভাস দিয়া হৈছে..."
+    }
+  }
+  

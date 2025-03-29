@@ -1,0 +1,24 @@
+{
+    "title": {
+      "language_selection": "زبان کا انتخاب",
+      "crop_recommendation": "فصل کی سفارش کا نظام"
+    },
+    "label": {
+      "choose_language": "اپنی پسندیدہ زبان منتخب کریں",
+      "nitrogen": "نائٹروجن",
+      "potassium": "پوٹاشیم",
+      "phosphorus": "فاسفورس",
+      "temperature": "درجہ حرارت",
+      "humidity": "نمی",
+      "ph": "مٹی کا pH سطح",
+      "rainfall": "بارش"
+    },
+    "button": {
+      "continue": "جاری رکھیں",
+      "predict_crop": "فصل کی پیشن گوئی کریں"
+    },
+    "message": {
+      "predicting_crop": "ان پٹ ڈیٹا کی بنیاد پر بہترین فصل کی پیشن گوئی کر رہے ہیں..."
+    }
+  }
+  

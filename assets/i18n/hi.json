@@ -1,0 +1,32 @@
+{
+    "title": {
+      "language_selection": "भाषा चयन",
+      "crop_recommendation": "फसल सिफारिश प्रणाली",
+      "en_language_name": "English",
+  "hi_language_name": "हिंदी",
+  "ta_language_name": "தமிழ்",
+  "te_language_name": "తెలుగు",
+  "ml_language_name": "മലയാളം",
+  "kn_language_name": "ಕನ್ನಡ",
+  "gu_language_name": "ગુજરાતી",
+  "mr_language_name": "मराठी"
+    },
+    "label": {
+      "choose_language": "अपनी पसंदीदा भाषा चुनें",
+      "nitrogen": "नाइट्रोजन",
+      "potassium": "पोटैशियम",
+      "phosphorus": "फॉस्फोरस",
+      "temperature": "तापमान",
+      "humidity": "आर्द्रता",
+      "ph": "पीएच",
+      "rainfall": "वर्षा"
+    },
+    "button": {
+      "continue": "जारी रखें",
+      "predict_crop": "फसल की भविष्यवाणी करें"
+    },
+    "message": {
+      "predicting_crop": "इनपुट डेटा के आधार पर सर्वश्रेष्ठ फसल की भविष्यवाणी की जा रही है..."
+    }
+  }
+  

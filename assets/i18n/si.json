@@ -1,0 +1,24 @@
+{
+    "title": {
+      "language_selection": "භාෂා තේරීම",
+      "crop_recommendation": "බෝග නිර්දේශ පද්ධතිය"
+    },
+    "label": {
+      "choose_language": "ඔබේ කැමති භාෂාව තෝරන්න",
+      "nitrogen": "නයිට්‍රජන්",
+      "potassium": "පොටෑසියම්",
+      "phosphorus": "ෆොස්ෆරස්",
+      "temperature": "උෂ්ණත්වය",
+      "humidity": "ආර්ද්‍රතාවය",
+      "ph": "මැටි pH මට්ටම",
+      "rainfall": "වර්ෂාපතනය"
+    },
+    "button": {
+      "continue": "දිගටම කරගෙන යන්න",
+      "predict_crop": "බෝගය අනාවැකි කරන්න"
+    },
+    "message": {
+      "predicting_crop": "ආදාන දත්ත මත පදනම්ව හොඳම බෝගය අනාවැකි කරයි..."
+    }
+  }
+  

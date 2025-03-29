@@ -1,0 +1,23 @@
+{
+    "title": {
+      "language_selection": "ভাষা নির্বাচন",
+      "crop_recommendation": "ফসলের পরামর্শ ব্যবস্থা"
+    },
+    "label": {
+      "choose_language": "আপনার পছন্দের ভাষা নির্বাচন করুন",
+      "nitrogen": "নাইট্রোজেন",
+      "potassium": "পটাশিয়াম",
+      "phosphorus": "ফসফরাস",
+      "temperature": "তাপমাত্রা",
+      "humidity": "আর্দ্রতা",
+      "ph": "মাটির pH স্তর",
+      "rainfall": "বৃষ্টিপাত"
+    },
+    "button": {
+      "continue": "চালিয়ে যান",
+      "predict_crop": "ফসলের পূর্বাভাস দিন"
+    },
+    "message": {
+      "predicting_crop": "ইনপুট ডেটার উপর ভিত্তি করে সেরা ফসল পূর্বাভাস দেওয়া হচ্ছে..."
+    }
+  }

@@ -1,0 +1,31 @@
+{
+    "title": {
+      "language_selection": "ભાષા પસંદગી",
+      "crop_recommendation": "ફસલ ભલામણ સિસ્ટમ",
+      "en_language_name": "English",
+  "hi_language_name": "हिंदी",
+  "ta_language_name": "தமிழ்",
+  "te_language_name": "తెలుగు",
+  "ml_language_name": "മലയാളം",
+  "kn_language_name": "ಕನ್ನಡ",
+  "gu_language_name": "ગુજરાતી",
+  "mr_language_name": "मराठी"
+    },
+    "label": {
+      "choose_language": "તમારું પ્રિય ભાષા પસંદ કરો",
+      "nitrogen": "નાઇટ્રોજન",
+      "potassium": "પોટેશિયમ",
+      "phosphorus": "ફોસ્ફરસ",
+      "temperature": "તાપમાન",
+      "humidity": "ભેજ",
+      "ph": "માટીનું pH સ્તર",
+      "rainfall": "વરસાદ"
+    },
+    "button": {
+      "continue": "ચાલુ રાખો",
+      "predict_crop": "ફસલની આગાહી કરો"
+    },
+    "message": {
+      "predicting_crop": "ઇનપુટ ડેટા આધારે શ્રેષ્ઠ ફસલની આગાહી કરી રહી છે..."
+    }
+  }

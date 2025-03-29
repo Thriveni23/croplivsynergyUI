@@ -1,0 +1,31 @@
+{
+    "title": {
+      "language_selection": "भाषा निवड",
+      "crop_recommendation": "पीक शिफारस प्रणाली",
+      "en_language_name": "English",
+  "hi_language_name": "हिंदी",
+  "ta_language_name": "தமிழ்",
+  "te_language_name": "తెలుగు",
+  "ml_language_name": "മലയാളം",
+  "kn_language_name": "ಕನ್ನಡ",
+  "gu_language_name": "ગુજરાતી",
+  "mr_language_name": "मराठी"
+    },
+    "label": {
+      "choose_language": "तुमची पसंतीची भाषा निवडा",
+      "nitrogen": "नायट्रोजन",
+      "potassium": "पोटॅशियम",
+      "phosphorus": "फॉस्फरस",
+      "temperature": "तापमान",
+      "humidity": "आर्द्रता",
+      "ph": "मातीचा pH स्तर",
+      "rainfall": "पर्जन्यमान"
+    },
+    "button": {
+      "continue": "सुरू ठेवा",
+      "predict_crop": "पीक अंदाज लावा"
+    },
+    "message": {
+      "predicting_crop": "इनपुट डेटावर आधारित सर्वोत्तम पीक भाकित केले जात आहे..."
+    }
+  }

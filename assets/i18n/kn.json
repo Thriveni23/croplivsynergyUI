@@ -1,0 +1,31 @@
+{
+    "title": {
+      "language_selection": "ಭಾಷೆ ಆಯ್ಕೆ",
+      "crop_recommendation": "ಬೆಳೆ ಶಿಫಾರಸು ವ್ಯವಸ್ಥೆ",
+      "en_language_name": "English",
+  "hi_language_name": "हिंदी",
+  "ta_language_name": "தமிழ்",
+  "te_language_name": "తెలుగు",
+  "ml_language_name": "മലയാളം",
+  "kn_language_name": "ಕನ್ನಡ",
+  "gu_language_name": "ગુજરાતી",
+  "mr_language_name": "मराठी"
+    },
+    "label": {
+      "choose_language": "ನಿಮ್ಮ ಮೆಚ್ಚಿನ ಭಾಷೆ ಆಯ್ಕೆಮಾಡಿ",
+      "nitrogen": "ನೈಟ್ರೋಜನ್",
+      "potassium": "ಪೊಟ್ಯಾಸಿಯಂ",
+      "phosphorus": "ಫಾಸ್ಫರಸ್",
+      "temperature": "ತಾಪಮಾನ",
+      "humidity": "ಆದ್ರತೆ",
+      "ph": "ಮಣ್ಣಿನ pH ಮಟ್ಟ",
+      "rainfall": "ಮಳೆಯ ಪ್ರಮಾಣ"
+    },
+    "button": {
+      "continue": "ಮುಂದುವರಿಸಿ",
+      "predict_crop": "ಬೆಳೆ ಊಹಿಸಿ"
+    },
+    "message": {
+      "predicting_crop": "ಇನ್ಪುಟ್ ಡೇಟಾದ ಆಧಾರದಲ್ಲಿ ಉತ್ತಮ ಬೆಳೆ ಊಹಿಸಲಾಗುತ್ತಿದೆ..."
+    }
+  }

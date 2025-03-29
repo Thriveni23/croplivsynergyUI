@@ -1,0 +1,33 @@
+
+{
+    "title": {
+      "language_selection": "ഭാഷ തിരഞ്ഞെടുക്കൽ",
+      "crop_recommendation": "വിള ശുപാർശ സിസ്റ്റം",
+      "en_language_name": "English",
+  "hi_language_name": "हिंदी",
+  "ta_language_name": "தமிழ்",
+  "te_language_name": "తెలుగు",
+  "ml_language_name": "മലയാളം",
+  "kn_language_name": "ಕನ್ನಡ",
+  "gu_language_name": "ગુજરાતી",
+  "mr_language_name": "मराठी"
+    },
+    "label": {
+      "choose_language": "നിങ്ങളുടെ പ്രിയപ്പെട്ട ഭാഷ തിരഞ്ഞെടുക്കുക",
+      "nitrogen": "നൈട്രജൻ",
+      "potassium": "പൊട്ടാഷ്യം",
+      "phosphorus": "ഫോസ്ഫറസ്",
+      "temperature": "താപനില",
+      "humidity": "ആർദ്രത",
+      "ph": "മണ്ണിന്റെ pH നില",
+      "rainfall": "മഴവെള്ളം"
+    },
+    "button": {
+      "continue": "തുടരുക",
+      "predict_crop": "വിള പ്രവചിക്കുക"
+    },
+    "message": {
+      "predicting_crop": "ഇൻപുട്ട് ഡാറ്റയുടെ അടിസ്ഥാനത്തിൽ മികച്ച വിള പ്രവചിക്കുന്നു..."
+    }
+  }
+  

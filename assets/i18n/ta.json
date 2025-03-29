@@ -1,0 +1,31 @@
+{
+    "title": {
+      "language_selection": "மொழி தேர்வு",
+      "crop_recommendation": "பயிர் பரிந்துரை அமைப்பு",
+      "en_language_name": "English",
+  "hi_language_name": "हिंदी",
+  "ta_language_name": "தமிழ்",
+  "te_language_name": "తెలుగు",
+  "ml_language_name": "മലയാളം",
+  "kn_language_name": "ಕನ್ನಡ",
+  "gu_language_name": "ગુજરાતી",
+  "mr_language_name": "मराठी"
+    },
+    "label": {
+      "choose_language": "உங்கள் விருப்ப மொழியைத் தேர்ந்தெடுக்கவும்",
+      "nitrogen": "நைட்ரஜன்",
+      "potassium": "பொட்டாசியம்",
+      "phosphorus": "பாஸ்பரஸ்",
+      "temperature": "வெப்பநிலை",
+      "humidity": "ஈரப்பதம்",
+      "ph": "மண்ணின் pH நிலை",
+      "rainfall": "மழை"
+    },
+    "button": {
+      "continue": "தொடரவும்",
+      "predict_crop": "பயிர் கணிக்கவும்"
+    },
+    "message": {
+      "predicting_crop": "உள்ளீட்டுத் தரவின் அடிப்படையில் சிறந்த பயிரை கணிக்கப்படுகிறது..."
+    }
+  }

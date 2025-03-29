@@ -1,0 +1,32 @@
+{
+    "title": {
+      "language_selection": "భాషా ఎంపిక",
+      "crop_recommendation": "పంట సూచన వ్యవస్థ",
+      "en_language_name": "English",
+  "hi_language_name": "हिंदी",
+  "ta_language_name": "தமிழ்",
+  "te_language_name": "తెలుగు",
+  "ml_language_name": "മലയാളം",
+  "kn_language_name": "ಕನ್ನಡ",
+  "gu_language_name": "ગુજરાતી",
+  "mr_language_name": "मराठी"
+    },
+    "label": {
+      "choose_language": "మీకు ఇష్టమైన భాషను ఎంచుకోండి",
+      "nitrogen": "నైట్రోజన్",
+      "potassium": "పొటాషియం",
+      "phosphorus": "ఫాస్ఫరస్",
+      "temperature": "ఉష్ణోగ్రత",
+      "humidity": "తేమ",
+      "ph": "మట్టి pH స్థాయి",
+      "rainfall": "వర్షపాతం"
+    },
+    "button": {
+      "continue": "కొనసాగించు",
+      "predict_crop": "పంటను అంచనా వేయండి"
+    },
+    "message": {
+      "predicting_crop": "ఇన్‌పుట్ డేటా ఆధారంగా ఉత్తమ పంటను అంచనా వేస్తోంది..."
+    }
+  }
+  
